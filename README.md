@@ -7,7 +7,6 @@
 ## 🌟 What I'm Doing
 - Focusing on Backend Development with **Node.js** on Transcendance, The Final project of 42's common core  
 - Building and integrating **real-time features** (authentication, WebSockets, multiplayer interactions)  
-- Writing clean, tested, and maintainable code  
 
 ## 📊 My 42 Stats  
 
